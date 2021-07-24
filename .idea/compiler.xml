@@ -9,5 +9,6 @@
         <module name="sample-calculator-git" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
